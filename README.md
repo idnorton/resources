@@ -1,6 +1,9 @@
 # Hackspace Foundation Resources
 Curated resources to aid starting and running a Hackspace.
 
+
+
+
 Organised by a number of trustees/directors of UK hackspaces, this repo contains reusable materials for starting or running a hackspace.  It complements the high level information available on the UK Hackspace Foundation website: http://www.hackspace.org.uk/
 
 The majority of the content is arranged within the *[Hackspace Owners Manual](Hackspace%20Owners%20Manual/README.md)*, so start there :)
